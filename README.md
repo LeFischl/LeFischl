@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeFischl
-- 🌱 I’m currently learning Android Developing
+- 🌱 I’m an Android Developer
 - 📫 How to reach me lucas@fischl.co.at
 
 <!---
